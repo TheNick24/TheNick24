@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
-<h3 align="center">Hello, I am F I S H and come from Germany, Rhineland-Palatinate</h3>
+<h3 align="center">Hello, I am F I S H and i swim in Germany, Rhineland-Palatinate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thenick24&label=Profile%20views&color=0e75b6&style=flat" alt="thenick24" /> </p>
 
