@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nico</h1>
 <h3 align="center">Hello, I am F I S H and i swim in Germany, Rhineland-Palatinate</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thenick24&label=Profile%20views&color=0e75b6&style=flat" alt="thenick24" /> <a href="https://wakatime.com/@4209c7d1-699d-4373-ba36-862377ebfe60"><img src="https://wakatime.com/badge/user/4209c7d1-699d-4373-ba36-862377ebfe60.svg" alt="Total time coded since Sep 5 2021" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thenick24&label=Profile%20views&color=0e75b6&style=flat" alt="thenick24" /> <a href="https://wakatime.com/@4209c7d1-699d-4373-ba36-862377ebfe60"><img src="https://wakatime.com/badge/user/4209c7d1-699d-4373-ba36-862377ebfe60.svg" alt="Total time coded since Sep 5 2021" /></a> </p>
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
